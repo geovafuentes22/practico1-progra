@@ -1,0 +1,13 @@
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.exe
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.deps.json
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.json
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.dev.json
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.dll
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.pdb
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfo.cs
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.dll
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.pdb
+C:\Users\geofu\Desktop\Examen de Progra\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.genruntimeconfig.cache
