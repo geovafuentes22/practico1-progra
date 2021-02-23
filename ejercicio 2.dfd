@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Ingrese el primer numero'
+5
+1
+1
+A
+4
+1
+28
+'Ingrese el segundo  numero'
+5
+1
+1
+B
+4
+1
+26
+'Ingrese el tercer numero'
+5
+1
+1
+C
+4
+1
+26
+'Ingrese el cuarto numero'
+5
+1
+1
+D
+6
+2
+1
+E
+3
+A+B
+1
+F
+3
+C*D
+4
+1
+31
+'La suma de los numeros es: ',E
+4
+1
+36
+'El producto de los numeros es: ', F
+1
